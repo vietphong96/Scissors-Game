@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Cursor from "@/pages/Cursor";
+import Cursor from "@/components/Cursor";
 
 
 export default function Home() {
